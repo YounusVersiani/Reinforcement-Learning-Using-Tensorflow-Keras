@@ -33,9 +33,8 @@ This project demonstrates how to train a Deep Q-Network (DQN) agent to solve the
 
 ## Requirements
 
-To install the required packages, run:
-
-pip install -r requirements.txt
+- To install the required packages, run:
+  pip install -r requirements.txt
 
 ## Usage
 
